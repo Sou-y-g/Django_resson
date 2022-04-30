@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'FirstApp'
 ]
 
 MIDDLEWARE = [
@@ -108,7 +109,7 @@ LANGUAGE_CODE = 'ja'
 TIME_ZONE = 'Asia/Tokyo'
 
 USE_I18N = True
-    
+
 USE_TZ = True
 
 
